@@ -1,0 +1,109 @@
+[
+    {
+         "nombre": "Noé",
+         "dineroAportado": 2000,
+         "platillos": [
+              {},
+              {},
+              {}
+         ],
+         "totalPagar": 210,
+         "dineroQueDebe": 0,
+         "dineroQueLeDeben": 1790,
+         "dineroDelCambio": 1500,
+         "leDebeA": [],
+         "leDeben": [
+              {
+                   "nombre": "Bryan",
+                   "cantidad": 290
+              }
+         ],
+         "propina": 31.5
+    },
+    {
+         "nombre": "Omar",
+         "dineroAportado": 500,
+         "platillos": [
+              {},
+              {},
+              {}
+         ],
+         "totalPagar": 265,
+         "dineroQueDebe": 0,
+         "dineroQueLeDeben": 235,
+         "dineroDelCambio": 0,
+         "leDebeA": [],
+         "leDeben": [
+              {
+                   "nombre": "Bryan",
+                   "cantidad": 135
+              },
+              {
+                   "nombre": "Pedro",
+                   "cantidad": 100
+              }
+         ],
+         "propina": 39.75
+    },
+    {
+         "nombre": "Bryan",
+         "dineroAportado": 50,
+         "platillos": [
+              {},
+              {},
+              {},
+              {},
+              {},
+              {}
+         ],
+         "totalPagar": 475,
+         "dineroQueDebe": 425,
+         "dineroQueLeDeben": 0,
+         "dineroDelCambio": 0,
+         "leDebeA": [
+              {
+                   "nombre": "Noé",
+                   "cantidad": 290
+              },
+              {
+                   "nombre": "Omar",
+                   "cantidad": 135
+              }
+         ],
+         "leDeben": [],
+         "propina": 71.25
+    },
+    {
+         "nombre": "Juan",
+         "dineroAportado": 140,
+         "platillos": [
+              {}
+         ],
+         "totalPagar": 140,
+         "dineroQueDebe": 0,
+         "dineroQueLeDeben": 0,
+         "dineroDelCambio": 0,
+         "leDebeA": [],
+         "leDeben": [],
+         "propina": 21
+    },
+    {
+         "nombre": "Pedro",
+         "dineroAportado": 100,
+         "platillos": [
+              {}
+         ],
+         "totalPagar": 200,
+         "dineroQueDebe": 100,
+         "dineroQueLeDeben": 0,
+         "dineroDelCambio": 0,
+         "leDebeA": [
+              {
+                   "nombre": "Omar",
+                   "cantidad": 100
+              }
+         ],
+         "leDeben": [],
+         "propina": 30
+    }
+]
